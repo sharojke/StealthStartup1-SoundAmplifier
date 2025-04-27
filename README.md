@@ -88,7 +88,7 @@ Uniapps is a young product company that appeared in 2022 and was originally a st
 
 Other projects of the company I've worked on:
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.png" height="35" />
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.PNG" height="35" />
     <a href="https://github.com/sharojke/Uniapps-WatchFacesClub"> Watch Faces Club </a>
   </p>
 - <p align="left">
