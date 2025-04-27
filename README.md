@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="/Resources/Images/app-icon-wide.PNG" height="200" />
+  <img src="/Resources/Images/SoundAmplifier-wide.jpg" height="200" />
   <h3 align="center">Sound Amplifier</h3>
 </p>
 
@@ -18,16 +18,23 @@
                 <li><a href="#sound-amplifier-settings">Sound Amplifier Settings</a></li>
                 <li><a href="#speech-to-text">Speech To Text</a></li>
                 <li><a href="#noise-reduction">Noise Reduction</a></li>
+                <li><a href="#equalizer-and-balance">Equalizer and Balance</a></li>
                 <li><a href="#loudness-protect">Loudness Protect</a></li>
-                <li><a href="#equalizer">Equalizer</a></li>
-                <li><a href="#balance">Balance</a></li>
               </ul>
           </ul>
           <ul>
             <li><a href="#hearing-test">Feature: Hearing Test</a></li>
               <ul>
-                <li><a href="#headphones-connection">Headphones Connection</a></li>
+                <li><a href="#test-intro">Test Intro</a></li>
+                <li><a href="#test-preparation">Test Preparation (Headphones, Loudness, Setup, Volume, Device)</a></li>
+                <li><a href="#test-the-left-ear">Test the Left Ear (image+video)</a></li>
+                <li><a href="#test-pause">Test Pause (image+resume+skip)</a></li>
+                <li><a href="#test-interruption">Test Interruption (primary+suspended)</a></li>
+                <li><a href="#test-result">Test Result (result(health kit)+audiogram+diagnosis+history)</a></li>
               </ul>
+          </ul>
+          <ul>
+            <li><a href="#tips-and-articles">Feature: Tips and Articles</a></li>
           </ul>
     </li>
     <li>
