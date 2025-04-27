@@ -67,9 +67,6 @@ Responsibilities:
 - Full research and feature development
 - Tasks decomposition, delegation and sprints management
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 Skills and Technologies:
 - Swift
 - MVVM+RxSwift, RxCocoa, RxDataSources
@@ -89,7 +86,7 @@ Skills and Technologies:
 
 Uniapps is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
 
-Other company projects I've worked on:
+Other projects of the company I've worked on:
 - <p align="left">
     <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.png" height="35" />
     <a href="https://github.com/sharojke/Uniapps-WatchFacesClub"> Watch Faces Club </a>
