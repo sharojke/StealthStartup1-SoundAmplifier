@@ -1,23 +1,9 @@
 <a name="readme-top"></a>
 
-
-
-
-<br />
-<div align="center">
-  <img title="App Icon" src="/Resources/Images/app-icon-wide.PNG" alt="Logo" height="200">
-  
+<p align="center">
+  <img src="/Resources/Images/app-icon-wide.PNG" height="200" />
   <h3 align="center">Sound Amplifier</h3>
-  
-  <p align="center">
-    <em>
-      An application that provides a quick hearing test and offers personalized sound enhancement to help you hear more clearly and comfortably
-    </em>
-  </p>
-</div>
-
-
-
+</p>
 
 <details>
   <summary>Table of Contents</summary>
@@ -45,18 +31,10 @@
           </ul>
     </li>
     <li>
-      <a href="#about-the-company">About The Company</a>
-        <ul>
-          <li><a href="#team-composition">Team Composition</a></li>
-          <li><a href="#life-span">Life Span</a></li>
-        </ul>
+      <a href="#about-my-participation">About My Participation</a>
     </li>
     <li>
-      <a href="#about-my-participation">About My Participation</a>
-        <ul>
-        <li><a href="#responsibilities">Responsibilities</a></li>
-        <li><a href="#skills-and-technologies">Skills and Technologies</a></li>
-      </ul>
+      <a href="#about-the-company">About The Company</a>
     </li>
   </ol>
 </details>
@@ -66,9 +44,63 @@
 
 ## About The Project
 
-Watch Faces Club is an application that helps people decorate their watches with *Watch Faces*, create and share new ones!
-The main idea is that users can create their own watch faces and share them with the community!
+**Sound Amplifier** is an application that provides a quick hearing test and offers personalized sound enhancement to help you hear more clearly and comfortably.
 
-[Link to the AppStore.](https://apps.apple.com/app/watch-faces-widgets-gallery/id6498901400)
+The development of the application began in January 2024. The creation of the basic functionality was completed in August 2024.  
+The relatively long development time is related to frequent switching to other projects.  
+The project has not been released due to the company reasons.
 
+Team Composition:  
+- 1 **Product** manager
+- 1 **UI/UX** Designer
+- 1-2 **iOS** Developers
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## About My Participation
+
+Responsibilities:
+- Participation in the creation of the project **from scratch**
+- Full research and feature development
+- Tasks decomposition, delegation and sprints management
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+Skills and Technologies:
+- Swift
+- MVVM+RxSwift, RxCocoa, RxDataSources
+- UIKit, CAAnimation
+- AudioKit, AudioKitEX, SoundpipeAudioKit, SporthAudioKit, AVFAudio, AVFoundation
+- Multithreading
+- Firebase, Mixpanel, Amplitude, localise.biz
+- Bitrise, Fastlane, Git, Sourcetree, Figma, Tilda
+- Jira, Flow (Po­mo­­doro timer), Sublime
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## About The Company
+
+Uniapps is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+
+Other company projects I've worked on:
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.png" height="35" />
+    <a href="https://github.com/sharojke/Uniapps-WatchFacesClub"> Watch Faces Club </a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" height="35" />
+    <a href="https://github.com/sharojke/Startup1-WatchFaces2"> Watch Faces #2 </a>
+  </p>
+- <p align="left">
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" height="35" />
+    <a href="https://github.com/sharojke/Startup1-WatchFaces1"> Watch Faces #1 </a>
+  </p>
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
