@@ -271,7 +271,7 @@ Skills and Technologies:
 - MVVM+RxSwift, RxCocoa, RxDataSources
 - UIKit, CAAnimation, SnapKit
 - AudioKit, AudioKitEX, SoundpipeAudioKit, SporthAudioKit, AVFAudio, AVFoundation
-- Firebase, Mixpanel, Amplitude, localise.biz
+- Firebase, Mixpanel, Amplitude, localise.biz, swiftlint
 - Bitrise, Fastlane, Git, Sourcetree, Figma
 - Jira, Flow (Po­mo­­doro timer)
 
