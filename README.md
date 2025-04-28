@@ -180,7 +180,7 @@ It is known for Apple headphones, but not for headphones from other manufacturer
 #### Testing
 
 After everything is prepared, the user can start testing.  
-The test is performed for each ear individually and at different frequencies (125, 250, 1000, 2000, 4000, 8000).  
+The test is performed for each ear individually and at different frequencies (125, 250, 500, 1000, 2000, 4000, 8000).  
 During the test, it is necessary to find out the value of the minimum sound that the user can hear at each frequency. To do this, the "Can hear - Can't hear" strategy was chosen, which seemed the most optimal and accurate.  
 In the video, you can see the testing of the left ear (the values are exaggerated so that the generated sound for the desired frequency can be heard).
 
