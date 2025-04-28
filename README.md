@@ -65,7 +65,72 @@ Team Composition:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+### Feature: Sound Amplifier
 
+The Sound Amplifier feature can be used for dialogue with another person. In this case, the person with hearing problems should wear headphones, and the other person should use the person's phone as a microphone.
+
+#### Headphones Connection
+
+Headphones can be connected automanically or using AirPlay.
+
+| <img src="/Resources/Gifs/sa-headphones-0.gif" width="200"/> &nbsp;&nbsp; <img src="/Resources/Gifs/sa-headphones-1.gif" width="200"/> |
+|:--:|
+| *Automatically / AirPlay* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Voice Visualizer
+
+Without applying any settings, the user will see the Voice Visualization.
+
+https://github.com/user-attachments/assets/281ce15d-2725-4344-9eaa-6e5ef41d9f88
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Sound Amplifier Setting
+
+There are a few settings for more comfortable use:
+- Speech to Text
+- Noise Reduction
+- Equalizer and Balance
+- Loudness Protection 
+
+| <img src="/Resources/Images/sa-settings-0.PNG" width="200"/> &nbsp;&nbsp; <img src="/Resources/Images/sa-settings-1.PNG" width="200"/> |
+|:--:|
+| *Available Settings* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Speech To Text
+
+https://github.com/user-attachments/assets/2bc61f6b-0a0b-4815-9e75-ca4f5b7163e7
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Noise Reduction
+
+https://github.com/user-attachments/assets/88cff935-6be3-442c-9e7e-7fc69497fb3a
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Equalizer and Balance
+
+Many people with hearing problems hear differently at different frequencies (for example, they hear low frequencies softly or hear high frequencies loudly), as well as hear differently with different ears.  
+For this, there are Equalizer and Balance settings to adjust the sound.
+
+https://github.com/user-attachments/assets/c863874c-7dd2-4a06-bd6a-aab3ac6a9f60
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Loudness Protect
+
+For the sake of hearing safety, the user can activate and adjust the maximum sound volume.
+
+| <img src="/Resources/Gifs/sa-loudness.gif" width="200"/> |
+|:--:|
+| *Loudness Protect setting* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## About My Participation
 
