@@ -282,7 +282,7 @@ Skills and Technologies:
 
 ## About The Company
 
-Uniapps is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+**[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
 
 Other projects of the company I've worked on:
 - <p align="left">
