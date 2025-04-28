@@ -269,7 +269,7 @@ Responsibilities:
 Skills and Technologies:
 - Swift
 - MVVM+RxSwift, RxCocoa, RxDataSources
-- UIKit, CAAnimation
+- UIKit, CAAnimation, SnapKit
 - AudioKit, AudioKitEX, SoundpipeAudioKit, SporthAudioKit, AVFAudio, AVFoundation
 - Firebase, Mixpanel, Amplitude, localise.biz
 - Bitrise, Fastlane, Git, Sourcetree, Figma
