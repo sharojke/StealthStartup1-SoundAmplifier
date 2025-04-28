@@ -25,16 +25,15 @@
           <ul>
             <li><a href="#feature-hearing-test">Feature: Hearing Test</a></li>
               <ul>
-                <li><a href="#test-intro">Test Intro</a></li>
-                <li><a href="#test-preparation">Test Preparation (Headphones, Loudness, Setup, Volume, Device)</a></li>
-                <li><a href="#test-the-left-ear">Test the Left Ear (image+video)</a></li>
-                <li><a href="#test-pause">Test Pause (image+resume+skip)</a></li>
-                <li><a href="#test-interruption">Test Interruption (primary+suspended)</a></li>
-                <li><a href="#test-result">Test Result (result(health kit)+audiogram+diagnosis+history)</a></li>
+                <li><a href="#test-preparation">Test Preparation</a></li>
+                <li><a href="#testing">Testing</a></li>
+                <li><a href="#test-pause">Test Pause</a></li>
+                <li><a href="#test-interruption">Test Interruption</a></li>
+                <li><a href="#test-result">Test Result</a></li>
               </ul>
           </ul>
           <ul>
-            <li><a href="#tips-and-articles">Feature: Tips and Articles</a></li>
+            <li><a href="#feature-tips-and-articles">Feature: Tips and Articles</a></li>
           </ul>
     </li>
     <li>
@@ -134,6 +133,127 @@ For the sake of hearing safety, the user can activate and adjust the maximum sou
 
 ### Feature: Hearing Test
 
+Hearing Test can help the user to find out how well they can hear at different frequencies. It can also help the user determine if they have any hearing impairments.  
+The result of the test is an audiogram that can be used when making an appointment with a doctor, as well as many recommendations for preventing hearing loss.
+
+| <img src="/Resources/Images/test-intro.PNG" width="200"/> |
+|:--:|
+| *Test Intro* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Test Preparation
+
+To start testing, the user needs to make some preparations.
+
+| <img src="/Resources/Gifs/test-config-headphones.gif" width="200"/> |
+|:--:|
+| *Headphones connection* |
+
+To obtain a more accurate result, the test should be conducted in a quiet place.
+
+| <img src="/Resources/Gifs/test-config-noise.gif" width="200"/> |
+|:--:|
+| *Loudness check* |
+
+Before the test, you need to configure the devices so that the test is not interrupted and the sound quality is not modified.
+
+| <img src="/Resources/Images/test-config-setup.PNG" width="200"/> |
+|:--:|
+| *Device setup* |
+
+For the safety of hearing and the correct calculation of the hearing level, the volume on the device must be 50%.
+
+| <img src="/Resources/Gifs/test-config-volume.gif" width="200"/> |
+|:--:|
+| *Volume check* |
+
+All headphones have a calibration offset, which affects the sound volume calculation.  
+It is known for Apple headphones, but not for headphones from other manufacturers, so the results may not be accurate for them.
+
+| <img src="/Resources/Images/test-config-device.PNG" width="200"/> |
+|:--:|
+| *Headphones selection* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Testing
+
+After everything is prepared, the user can start testing.  
+The test is performed for each ear individually and at different frequencies (125, 250, 1000, 2000, 4000, 8000).  
+During the test, it is necessary to find out the value of the minimum sound that the user can hear at each frequency. To do this, the "Can hear - Can't hear" strategy was chosen, which seemed the most optimal and accurate.  
+In the video, you can see the testing of the left ear (the values are exaggerated so that the generated sound for the desired frequency can be heard).
+
+https://github.com/user-attachments/assets/c4bb4361-0061-4faf-b6dc-5cf45031ab17
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Test Pause
+
+The test can be paused. It allows to:
+- resume the test
+- skip the current ear
+- restart the current ear
+- exit the test
+
+| <img src="/Resources/Images/test-pause.PNG" width="200"/> &nbsp;&nbsp; <img src="/Resources/Gifs/test-resume.gif" width="200"/> &nbsp;&nbsp; <img src="/Resources/Gifs/test-skip.gif" width="200"/> |
+|:--:|
+| *Test Pause* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Test Interruption
+
+The test can be interrupted by:
+- headphones disconnection - the highest priority
+- system volume change - lower priority
+- loud place - lower priority
+- suspension (call, alarm, lock the screen, move the app to background, etc) - the lowest priority 
+
+| <img src="/Resources/Gifs/test-interruption-primary.gif" width="200"/> &nbsp;&nbsp; <img src="/Resources/Gifs/test-interruption-suspended.gif" width="200"/> |
+|:--:|
+| *Test Interruption* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Test Result
+
+After the test is done, the user can see the result of the test.
+
+| <img src="/Resources/Gifs/test-result.gif" width="200"/> |
+|:--:|
+| *Test Result* |
+
+The audiogram is the most important part of the test result, because it is what doctors use when making a diagnosis.  
+There is a feature to convert an audiogram to PDF format and share it with others.  
+An audiogram can also be saved in HealthKit so that the iOS system knows the state of your hearing and improves the user experience.  
+
+| <img src="/Resources/Gifs/test-audiogram.gif" width="200"/> |
+|:--:|
+| *Audiogram* |
+
+The user also receives a diagnosis of their hearing, information about the diagnosis, various recommendations, as well as information about similar diagnoses.
+
+| <img src="/Resources/Gifs/test-diagnosis.gif" width="200"/> |
+|:--:|
+| *Diagnosis* |
+
+The user also has access to the history of their results (results can be deleted).
+
+| <img src="/Resources/Gifs/test-history.gif" width="200"/> |
+|:--:|
+| *History* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Feature: Tips and Articles
+
+The application contains a large number of different tips and articles on the topic of hearing. This content can be updated remotely without updating the app.
+
+| <img src="/Resources/Gifs/tips.gif" width="200"/> &nbsp;&nbsp; <img src="/Resources/Gifs/tips-search.gif" width="200"/> |
+|:--:|
+| *Tips and Articles* |
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -151,10 +271,9 @@ Skills and Technologies:
 - MVVM+RxSwift, RxCocoa, RxDataSources
 - UIKit, CAAnimation
 - AudioKit, AudioKitEX, SoundpipeAudioKit, SporthAudioKit, AVFAudio, AVFoundation
-- Multithreading
 - Firebase, Mixpanel, Amplitude, localise.biz
-- Bitrise, Fastlane, Git, Sourcetree, Figma, Tilda
-- Jira, Flow (Po­mo­­doro timer), Sublime
+- Bitrise, Fastlane, Git, Sourcetree, Figma
+- Jira, Flow (Po­mo­­doro timer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
