@@ -11,7 +11,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
           <ul>
-            <li><a href="#headphones-connection">Feature: Sound Amplifier</a></li>
+            <li><a href="#feature-headphones-connection">Feature: Sound Amplifier</a></li>
               <ul>
                 <li><a href="#headphones-connection">Headphones Connection</a></li>
                 <li><a href="#voice-visualizer">Voice Visualizer</a></li>
@@ -23,7 +23,7 @@
               </ul>
           </ul>
           <ul>
-            <li><a href="#hearing-test">Feature: Hearing Test</a></li>
+            <li><a href="#feature-hearing-test">Feature: Hearing Test</a></li>
               <ul>
                 <li><a href="#test-intro">Test Intro</a></li>
                 <li><a href="#test-preparation">Test Preparation (Headphones, Loudness, Setup, Volume, Device)</a></li>
@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/281ce15d-2725-4344-9eaa-6e5ef41d9f88
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### Sound Amplifier Setting
+#### Sound Amplifier Settings
 
 There are a few settings for more comfortable use:
 - Speech to Text
@@ -131,6 +131,13 @@ For the sake of hearing safety, the user can activate and adjust the maximum sou
 | *Loudness Protect setting* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Feature: Hearing Test
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 ## About My Participation
 
