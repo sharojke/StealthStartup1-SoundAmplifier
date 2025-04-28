@@ -11,7 +11,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
           <ul>
-            <li><a href="#feature-headphones-connection">Feature: Sound Amplifier</a></li>
+            <li><a href="#feature-sound-amplifier">Feature: Sound Amplifier</a></li>
               <ul>
                 <li><a href="#headphones-connection">Headphones Connection</a></li>
                 <li><a href="#voice-visualizer">Voice Visualizer</a></li>
