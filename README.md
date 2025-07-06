@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <img src="/Resources/Images/SoundAmplifier-wide.jpg" height="200" />
+  <img src="/Resources/Images/SoundAmplifier-wide.jpg" height="200" width="355" />
   <h3 align="center">Sound Amplifier</h3>
 </p>
 
@@ -282,20 +282,23 @@ Skills and Technologies:
 
 ## About The Company
 
-**[Uniapps](https://www.linkedin.com/company/uniappsmobi/)** is a young product company that appeared in 2022 and was originally a startup. After a year and a half-ish of hard work and several successful applications, the company had received the resources to grow and thrive.
+**Stealth Startup** is a young product company that appeared in 2022. Some information about the company and its products is under NDA.
 
 Other projects of the company I've worked on:
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Uniapps/WatchFacesClub.PNG" height="35" />
-    <a href="https://github.com/sharojke/Uniapps-WatchFacesClub"> Watch Faces Club </a>
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesCommunity"> Watch Faces Community</a>
+    <a>is an application that helps people decorate their apple watches, create new ones and share with the community.</a>
   </p>
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces2.png" height="35" />
-    <a href="https://github.com/sharojke/Startup1-WatchFaces2"> Watch Faces #2 </a>
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesForAppleWatch"> Watch Faces For Apple Watch</a>
+    <a>is an application that helps people decorate their apple watches.</a>
   </p>
 - <p align="left">
-    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/Companies/Startup1/Startup1-WatchFaces1.png" height="35" />
-    <a href="https://github.com/sharojke/Startup1-WatchFaces1"> Watch Faces #1 </a>
+    <img align="center" src="https://github.com/sharojke/sharojke/blob/main/Resources/AppleWatch.jpg" height="35" width="35"/>
+    <a href="https://github.com/sharojke/StealthStartup1-WatchFacesGallery"> Watch Faces Gallery</a>
+    <a>is an application that helps people decorate their apple watches.</a>
   </p>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
